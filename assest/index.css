@@ -57,7 +57,7 @@ nav ul :hover{
     border-radius: 30%;
 }
 .btn:hover{
-    background: #000000;
+    background: #c2c0c0;
     color: white;
 }
 .header{
@@ -79,4 +79,13 @@ nav ul :hover{
     margin: auto;
     padding-left: 25px;
     padding-right: 25px;
+}
+.col-4{
+    flex-basis: 25%;
+    padding: 10px;
+    min-width: 200px;
+    margin-bottom: 50px;
+}
+.col-4 img{
+    width: 100%;
 }
